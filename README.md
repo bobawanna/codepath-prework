@@ -1,7 +1,6 @@
 ## Prework Project
 
 ### App Description
-`TODO://` Add app description
 
 ### App Walk-though
 
