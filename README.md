@@ -1,6 +1,5 @@
 ## Prework Project
 
-### App Description
 
 ### App Walk-though
 
