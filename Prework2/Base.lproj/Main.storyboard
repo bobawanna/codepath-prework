@@ -24,21 +24,6 @@
                                     <action selector="BackgroundClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="K63-Zf-sc1"/>
                                 </connections>
                             </button>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Iiw-FP-bMD">
-                                <rect key="frame" x="47" y="203" width="321" height="53"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="hello from eva" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uMq-9i-8uQ">
-                                        <rect key="frame" x="2" y="8" width="317" height="45"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <fontDescription key="fontDescription" name="Futura-Bold" family="Futura" pointSize="40"/>
-                                        <color key="textColor" red="0.73333334920000004" green="0.52549022440000004" blue="0.87450981139999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                        <nil key="highlightedColor"/>
-                                        <color key="shadowColor" red="0.97647058959999999" green="0.87058818339999999" blue="0.89803922179999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                        <size key="shadowOffset" width="-3" height="-2"/>
-                                    </label>
-                                </subviews>
-                            </view>
                             <view opaque="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="VPb-vb-BQ3">
                                 <rect key="frame" x="39" y="338" width="336" height="221"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -126,6 +111,21 @@
                                     <action selector="SuggestionClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9nb-4D-yxe"/>
                                 </connections>
                             </button>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Iiw-FP-bMD">
+                                <rect key="frame" x="47" y="96" width="321" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="hello from eva" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uMq-9i-8uQ">
+                                        <rect key="frame" x="2" y="8" width="317" height="45"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" name="Futura-Bold" family="Futura" pointSize="40"/>
+                                        <color key="textColor" red="0.73333334920000004" green="0.52549022440000004" blue="0.87450981139999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <nil key="highlightedColor"/>
+                                        <color key="shadowColor" red="0.97647058959999999" green="0.87058818339999999" blue="0.89803922179999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <size key="shadowOffset" width="-3" height="-2"/>
+                                    </label>
+                                </subviews>
+                            </view>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.77254901960784317" green="0.51372549019607838" blue="0.89803921568627454" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
