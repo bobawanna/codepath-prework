@@ -6,7 +6,7 @@
 ### App Walk-though
 
 
-<img src="http://g.recordit.co/P2RA3V5pDv.gif" width=200><br>
+<img src="http://g.recordit.co/cEmYUZDwQy.gif" width=200><br>
 
 
 
@@ -24,3 +24,7 @@
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [x] c. If the text field is empty, update label with default text string.
    - [x] d. The keyboard is dismissed after the button has been tapped.
+
+### Additional Features
+- [x] 1. The text field to change label text is emptied when the user stops editing
+- [x] 2. User can also press a button to reset background to default
