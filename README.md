@@ -4,7 +4,7 @@
 ### App Walk-though
 
 
-<img src="http://g.recordit.co/cEmYUZDwQy.gif" width=400><br>
+<img src="http://g.recordit.co/cEmYUZDwQy.gif" width=350><br>
 
 
 
